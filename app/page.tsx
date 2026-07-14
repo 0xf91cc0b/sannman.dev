@@ -4,9 +4,10 @@ import { useEffect, useRef, useState } from "react";
 import ParticleField from "./ParticleField";
 
 const links = [
-  { label: "GitHub", href: "https://github.com/sannman" },
+  { label: "GitHub", href: "https://github.com/0xf91cc0b" },
   { label: "Instagram", href: "https://instagram.com/sannman.ai" },
   { label: "LinkedIn", href: "https://linkedin.com/in/sannman" },
+  { label: "Email", href: "mailto:1@sannman.dev"}
 ];
 
 function PythonIcon() {
